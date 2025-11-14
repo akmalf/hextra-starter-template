@@ -7,3 +7,7 @@ next: docs/folder/
 
 A simple demo page.
 
+$$
+f(x) = 3
+$$
+
